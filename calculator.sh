@@ -5,3 +5,7 @@ a + b = c
 
 #Subtraction
 a - b = c
+
+
+#Percentage
+a % b = c
